@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608486619 source:c:\users\muham\documents\codeblocks\algveprg_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<stdarg.h>
+
